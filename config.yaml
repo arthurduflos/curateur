@@ -1,0 +1,59 @@
+# ─── Curateur de podcasts / YouTube ───────────────────────────────
+playlist_prefix: "Curation" # playlists créées automatiquement : "Curation — Octobre 2026", etc.
+playlist_privacy: "private" # private, unlisted ou public
+lookback_days: 8 # fenêtre de recherche (8 jours pour un lancement hebdo)
+min_duration_min: 10 # exclut shorts et vidéos trop courtes
+score_threshold: 7 # note /10 minimale pour entrer dans la playlist
+model: "claude-sonnet-5-5" # ou "claude-haiku-4-5-20251001" pour moins cher
+
+# Émissions de confiance : toutes leurs nouvelles vidéos sont évaluées.
+# Handles à vérifier sur la page de chaque chaîne (le @ visible sous le nom).
+channels:
+  - "@lexfridman"
+  - "@timferriss"
+  - "@mattstefani"
+  - "@Le_Precepteur"
+  - "@AcquiredFM"
+  - "@DwarkeshPatel"
+  - "@AurelieLeveau"
+
+# Invités suivis à travers TOUS les podcasts (recherche YouTube, vidéos > 20 min).
+# Coût : 100 unités de quota par nom et par exécution (quota gratuit : 10 000/jour).
+guests:
+  - "Tobi Lütke"
+  - "Jensen Huang"
+  - "David Heinemeier Hansson"
+  - "Xavier Niel"
+  - "Oussama Amar"
+  - "Matthieu Pigasse"
+  - "Jean de La Rochebrochard"
+  - "Bertrand Périer"
+  - "Nicolas Hennion"
+  - "Naval Ravikant"
+  - "Derek Sivers"
+  - "Elon Musk"
+
+# Ton profil, injecté tel quel dans le prompt de notation. Enrichis-le au fil du temps.
+profile: |
+  J'écoute des interviews longues, en plusieurs fois, pour apprendre et me challenger.
+  Thèmes : entrepreneuriat, pouvoir et stratégie, IA et tech vues par ceux qui la font,
+  philosophie et culture générale, développement personnel à angle original, éloquence.
+
+  J'ai adoré : Lex Fridman avec DHH, Jensen Huang, Modi ; Bertrand Périer sur GDIY ;
+  Oussama Amar ; Xavier Niel ; Jean de La Rochebrochard ; Le Précepteur ;
+  Nicolas Hennion (« Libérez la bête »).
+
+  Je n'aime pas :
+  - le discours institutionnel lisse (ex : la PDG de Veolia sur GDIY : long, sans surprise)
+  - le format « show » où l'émotion prime sur la transmission (certains épisodes de Legend)
+  - les sujets trop pointus qui demandent des prérequis (santé, protocoles, niches chez Tim Ferriss)
+  - le putaclic, le sensationnalisme, les compilations et extraits de news
+
+criteria: |
+  Note chaque vidéo sur 10 selon :
+  - Singularité : l'invité pense-t-il librement, avec une vision qui peut surprendre ?
+  - Ancrage concret : parle-t-il d'expérience vécue plutôt que de généralités ?
+  - Accessibilité : compréhensible sans bagage spécialisé ?
+  Malus forts : communication corporate, storytelling émotionnel type show,
+  sujet de niche technique ou médical, titre racoleur, contenu d'actualité jetable.
+  Si la vidéo n'est pas une interview/conversation/cours de fond, note bas.

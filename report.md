@@ -1,74 +1,97 @@
-# Sélection du 30/09/2026
+# Sélection du 23/11/2026
 
-7 retenues sur 58 évaluées
+8 retenues sur 78 évaluées
 
-- **9/10** [How To Live Many Lives In One Lifetime: Travel, Certainty & AI | Derek Sivers](https://youtu.be/Pb8EL4W56BA) — Infinite Loops, 105 min  
-  Longue conversation avec Derek Sivers, penseur libre et très concret (CD Baby, expatriations, IA), accessible et au format que tu aimes.
-- **9/10** [Sarah Paine — Why wars are so difficult to end](https://youtu.be/f6cjAEr08qk) — Dwarkesh Patel, 53 min  
-  Cours de fond de Sarah Paine sur la stratégie et la fin des guerres, très singulier, riche en cas historiques concrets et accessible sans prérequis, dans l'esprit du Précepteur et de Dwarkesh.
-- **9/10** [Jensen Huang Thinks A.I. Alarmism Has Gone Too Far | The Ezra Klein Show](https://youtu.be/HjurAWAr_nY) — The Ezra Klein Show, 107 min  
-  Longue conversation avec Jensen Huang, que tu as adoré, face à un intervieweur exigeant qui le challenge sur les risques, la régulation et l'emploi, avec une vision tranchée et accessible.
-- **8/10** [ALDOUS HUXLEY - Le meilleur des mondes](https://youtu.be/_Dt4nhRtfJ4) — Le Précepteur, 52 min  
-  Cours de philosophie de fond du Précepteur, accessible et stimulant sur le totalitarisme et le plaisir, dans la lignée de ce que tu aimes.
-- **8/10** [Tech Genius Reveals Why The AI Revolution is Inevitable | David Heinemeier Hansson](https://youtu.be/nNx1D54wVEM) — Decoded Genius, 122 min  
-  Long entretien avec DHH, penseur libre qui parle d'expérience vécue (37signals, sortie du cloud, refus des VC) et de l'IA vue par un praticien, accessible et stimulant.
-- **8/10** [Ruby, Rails, and the future of programming - Matz, DHH & Jeremy Daer](https://youtu.be/IEOqgPfGLQ8) — Ruby on Rails, 64 min  
-  Fireside chat d'une heure avec Matz et DHH sur l'avenir de la programmation avec l'IA : voix singulières et expérience vécue, même si un peu spécialisé autour de Ruby.
-- **7/10** [a16z Just Launched a School With OpenAI, NVIDIA & Anthropic](https://youtu.be/5JEjv-JlYo8) — Sourcery with Molly O'Shea, 79 min  
-  Interview longue avec un fondateur (Udemy, Maven) sur l'éducation à l'ère de l'IA, ancrée dans une expérience d'entrepreneur et accessible, même si un peu promotionnelle.
+## Retenues
+
+- **9/10** [Tupperware, Duralex : Cédric Meston rachète des boîtes avec des millions de dettes](https://youtu.be/pR4BniAVqnc) — Matthieu Stefani - Génération Do It Yourself, 197 min  
+  Long entretien GDIY avec un repreneur d'entreprises en difficulté (Tupperware, Duralex), plein d'expérience concrète, d'une vision atypique et accessible, avec Xavier Niel en toile de fond.
+- **9/10** [Why AI Has DHH Working 16-Hour Days](https://youtu.be/TtOoLanFzGw) — a16z, 52 min  
+  DHH, que tu as adoré, discute en profondeur d'IA, de goût, d'artisanat et de pouvoir des petites équipes, avec une vision libre et ancrée dans son vécu.
+- **9/10** [Jensen Huang, AI & Why Founders Are Irreplaceable | Tobi Lütke, Shopify](https://youtu.be/w0oOxs0WKNk) — David Senra, 70 min  
+  Interview longue de David Senra avec Tobi Lütke : vision de fondateur singulière, anecdotes vécues (Bezos, Jensen Huang), IA et entrepreneuriat vus de l'intérieur, accessible.
+- **8/10** [L'ARTISTE FAIT-IL CE QU'IL VEUT ?](https://youtu.be/bSnRCXCzq8M) — Le Précepteur, 61 min  
+  Cours de philosophie accessible du Précepteur, que tu apprécies, sur la liberté de l'artiste, même s'il est moins ancré dans l'expérience vécue.
+- **8/10** [Albert Dupontel : "Ma façon de protester, c'est de faire des films"](https://youtu.be/ePC5Xg8w79A) — Matthieu Stefani - Génération Do It Yourself, 92 min  
+  Interview longue sur GDIY d'un créateur libre et indépendant, parcours vécu et vision singulière, même si le sujet cinéma est un peu éloigné du cœur de tes thèmes.
+- **8/10** [#1309 - Naval Ravikant](https://youtu.be/kn1_uY-rK2s) — Voxera Production Official, 141 min  
+  Longue conversation avec Naval Ravikant sur Joe Rogan, qui mêle entrepreneuriat, philosophie et pensée originale, de façon accessible et issue de l'expérience.
+- **7/10** [AIs might overthrow the government within a year – Paul Christiano](https://youtu.be/SyHM5hNPAEo) — Dwarkesh Patel, 99 min  
+  Interview longue et dense avec un acteur central de l'IA qui pense librement et donne des scénarios concrets, mais le sujet de l'alignement demande quelques prérequis.
+- **7/10** [Zerator me dévoile les SECRETS de son succès](https://youtu.be/uR2Aj6jsVEY) — Matthieu Stefani - Génération Do It Yourself, 162 min  
+  Longue interview GDIY d'un parcours atypique, très ancré dans le vécu (16 ans de live quotidien, ZEvent), mais sujet streaming moins central pour tes thèmes et collaboration commerciale.
 
 <details><summary>Écartées</summary>
 
-- 6/10 Rails World 2026 — Kaushik Datta : Keynote de DHH avec une vision tranchée et vécue chez 37signals sur l'IA, mais c'est un format conférence technique Rails, moins accessible qu'une interview.
-- 6/10 Rails World 2026 Opening Keynote - DHH — Ruby on Rails : DHH au discours libre et ancré dans l'expérience de 37signals, mais c'est une keynote de conférence orientée Rails, donc plus technique et moins conversationnelle.
-- 6/10 How to Spot 10-Year Trends and Build Billion-Dollar Companies — Kevin Ryan — Tim Ferriss : Interview longue d'un entrepreneur-investisseur avec beaucoup d'expérience concrète, mais l'angle tendances VC est moins singulier et le format Tim Ferriss est parfois de niche.
-- 6/10 DHH: Linux Can Finally Beat the Mac, and Apple Can't Stop It — Mischa van den Burg : DHH, que tu apprécies, parle avec conviction de sa vision et de sa motivation, mais le sujet (distribution Linux, sécurité) est assez technique et de niche.
-- 6/10 FULL PANEL: Elon Musk and Nvidia's Huang on AI Safety, Super Intelligence & America’s AI Future|AI1N — DRM News : Panel avec Huang et Musk sur l'IA vue par ceux qui la font, mais format d'événement institutionnel avec le gouvernement, plutôt lisse et court, et extrait republié par une chaîne d'actualités.
-- 4/10 Squawk Pod: Jensen Huang on AI safety & Bob Chapek on his Disney ouster - 09/28/26 | Audio Only — CNBC Television : Jensen Huang intéresse, mais c'est un extrait d'émission d'actualité financière mêlé à un segment sur la mémoire de Chapek, donc contenu jetable et discours assez lisse.
-- 4/10 Shopify如何用AI重构：托比·卢特克访谈​ | Tobi Lütke | AI重构 | AI员工River | AI战略决策 | 审美与判断力 | 卡尼曼直觉理论 | 数字员工 | AI垃圾弹 — 最佳拍档 : Sujet très pertinent (Tobi Lütke, IA et jugement), mais c'est un résumé en chinois d'une interview et non la conversation originale.
-- 4/10 Así Comunica Elon Musk: Dentro de la Mente del Hombre Más Rico del Mundo — Fernando Miralles : Analyse d'éloquence intéressante pour ton profil, mais c'est un monologue de coach avec du placement de produit, sans invité qui pense librement.
-- 4/10 ELON MUSK and JENSEN HUANG'S AI DEBATE: POWER, SAFETY AND THE FUTURE OF SI | FULL CONVERSATION — Diario AS : Conversation entre deux figures de l'IA, mais format de sommet politique souvent consensuel et centré sur l'actualité, avec peu d'expérience vécue approfondie en 37 minutes.
-- 4/10 FULL: Elon Musk, Jensen Huang, Tom Brown Discuss the AI Revolution & What's Next - 09/29/26 — Right Side Broadcasting Network : Discussion Musk/Huang potentiellement intéressante, mais extrait de 27 min posté par une chaîne politique orientée, format panel avec beaucoup de discours d'actualité.
-- 4/10 FULL PANEL: Nvidia CEO Huang & Musk on Super Intelligence, America.gov, Energy,Orbital Compute |AI1E — DWS News : Panel avec Huang et Musk de qualité potentielle, mais format court, orienté actualité et politique, et moins libre qu'une interview longue.
-- 4/10 What Naval Learned After Getting Everything — Freedom Maxxing : Naval et Kapil Gupta offrent une vision singulière et accessible, mais l'extrait recadré par une chaîne tierce au titre accrocheur est court et flou, avec un angle plus inspirationnel que concret.
-- 4/10 BREAKING: Elon Musk And Jensen Huang Speak At America.Gov Event, An AI-Powered Government Website — Forbes Breaking News : Même événement America.gov avec Musk et Huang, relayé en « BREAKING » par un média d'actualité : contenu jetable et titre racoleur, malgré des intervenants intéressants.
-- 3/10 The End of Ruby on Rails!! — Winston Codes On : Titre racoleur, chaîne inconnue et sujet technique de développeur sans invité ni expérience vécue identifiable.
-- 3/10 Peut-on défendre les idées de gauche en étant milliardaire, comme Pigasse ? — Sud Radio : Débat de plateau sur l'actualité autour de Pigasse, format polémique jetable avec peu de vécu concret.
-- 3/10 Dissecting DHH's RailsWorld 2026 Keynote Speech from a Software Engineering Point Of View — Glimmer - Ruby DSL Framework for GUI & More : Commentaire critique d'un keynote de DHH centré sur l'ingénierie logicielle Ruby, donc une niche technique et pas une interview.
-- 3/10 The Almanack of Naval Ravikant by Eric Jorgenson | Full Audiobook — Millionaire Playlist  : Livre audio de 292 minutes aux idées intéressantes, mais ce n'est ni une interview ni une conversation, et le contenu est très connu et compilé.
-- 3/10 2 ans dans l'ombre d'Oussama Ammar : mon TÉMOIGNAGE complet (révélations) - "One shot." n°012 — Basile Vierne : Témoignage en solo sur Oussama Ammar, plutôt anecdotique et centré sur les coulisses, et non une conversation avec lui ; le titre est racoleur (« révélations »).
-- 3/10 REACȚONEZ: DHH în podcast la Lex Fridman (Agentic Engineering, Linux, programatorii viitorului) — După Cod : Vidéo de réaction en roumain sur l'épisode DHH/Lex Fridman : contenu de seconde main, alors que l'original est déjà connu et aimé.
-- 3/10 The Almanack of Naval Ravikant: Ultimate Guide to Wealth & Happiness — The Wealth Blueprint : Résumé de livre sur Naval par une chaîne tierce : généralités de développement personnel sans conversation de fond.
-- 3/10 Stop Saying “Should,” “Just” & “I’m Sorry” | How Our Words Shape Self-Trust — Danielle Smith : Épisode solo de développement personnel très générique et émotionnel, sans angle original ni invité qui challenge.
-- 3/10 Show Your Work! Summary: Why Obscurity Is the Real Creative Trap (Austin Kleon) — Good Book Summary : Résumé de livre accessible, mais de seconde main, sans interview, et les idées de Kleon sont très diffusées.
-- 2/10 Naval Ravikant: Một Podcast Dài 3h35p Của Tỷ Phú Này Có Thể Thay Đổi Hoàn Toàn Tư Duy Bạn! — Lê Na – Inner World Podcast : Résumé en vietnamien de pensées de Naval par une vidéaste, sans invité ni expérience propre, et prend la forme d'un défi YouTube.
-- 2/10 Top AI Expert MOCKS Zuckerberg, Jensen Huang For Blocking Safeguards — Breaking Points : Commentaire d'actualité par des chroniqueurs, titre racoleur, pas d'interview de fond.
-- 2/10 چگونه یک کسب‌وکار بسازیم که واقعاً برایمان ارزشمند باشد؟ | درک سیورز — Fabook : Simple résumé de livre en persan, sans interview ni voix propre de l'auteur, donc peu de singularité et pas de conversation de fond.
-- 2/10 WATCH LIVE: Elon Musk joins 'Golden Age of AI' conversation at event unveiling America.gov — PBS NewsHour : Événement d'actualité institutionnel diffusé en direct par une chaîne d'info, donc contenu jetable et discours lissé malgré la présence de Musk.
-- 2/10 Meta quiere un agente en tus gafas y Amazon ya lo bloquea — Tokenizados - Podcast de Inteligencia Artificial : Podcast d'actualité IA hebdomadaire en espagnol, contenu jetable, et DHH n'y est traité que dans un court segment.
-- 2/10 Arnault: la industria global del lujo — Buscarruidos : Résumé narratif sur Arnault et sa succession, sans invité ni réflexion de fond, proche du contenu people/actualité.
-- 2/10 Anthropic Published 154 Pages of People Abusing Claude — Squintist : Commentaire sur un rapport d'actualité IA, format vidéo-news jetable avec titre racoleur, sans invité ni vision singulière.
-- 2/10 ከምወደው ሀሳቢ Naval Ravikant ድንቅ ሃሳቦች- part 1 — Andebet podcast : Résumé en amharique des idées de Naval par un commentateur : ce n'est pas une interview, c'est du contenu de seconde main, et la langue est sans doute inaccessible.
-- 2/10 Piloter un groupe qui génère 44 MILLIARDS D'€ de CA - Estelle Brachlianoff - CEO Veolia — Matthieu Stefani - Génération Do It Yourself : Interview d'une PDG du CAC 40 sur GDIY, exactement le discours institutionnel lisse et sans surprise que tu as déjà rejeté, et en plus 2h18.
-- 2/10 Comme Matthieu Pigasse, peut-on prôner le partage des richesses quand on est un ultra-riche ? — Sud Radio : Débat radio d'actualité sur Pigasse, polémique jetable sans vision singulière ni expérience concrète.
-- 2/10 Rework Book Summary | Work Smarter,  And Build Something Real | Learn English With Book Summary 📖 — Learn English Through Stories  : Résumé de livre pour apprenants d'anglais, sur un ouvrage de DHH mais sans voix propre ni expérience vécue : il vaut mieux lire Rework ou écouter DHH.
-- 1/10 【建議收藏】別再嘴笨吃虧！你的說話邏輯，早已出賣認知層次#納瓦爾 #納瓦爾寶典 #人生哲學#人生感悟 — Naval 智慧集 : Compilation de citations de Naval en chinois, titre racoleur, contenu de seconde main.
-- 1/10 【建議收藏】真正厲害的人，從不和爛事糾纏，收回你的注意力#納瓦爾 #納瓦爾寶典 #人生哲學#人生感悟 — Naval 智慧集 : Compilation de citations de Naval en chinois, titre racoleur, contenu de seconde main.
-- 1/10 Rework Book Summary | Work Smarter,  And Build Something Real | Learn English With Book Summary 📖 — English Lab : Résumé générique de Rework destiné à l'apprentissage de l'anglais, sans profondeur ni interview.
-- 1/10 A 28 year old analyst trapped in anxiety over AI and layoffs changes the course of his life with one — The Wisdom of Naval Ravikant : Histoire fictionnalisée d'un anonyme sous label Naval, sans interview réelle, storytelling émotionnel et titre racoleur.
-- 1/10 The Almanack of Naval Ravikant: Wealth, Happiness & Freedom (Audiobook Summary) — The Unedited Script : Résumé audio généré sur un livre, sans invité ni conversation, dans un style générique de développement personnel.
-- 1/10 Pigasse, Mirabel, Milei : La semaine des polémiques ! On ne va pas se mentir #16 — Radio Courtoisie : Débat de chroniqueurs sur l'actualité polémique de la semaine : contenu jetable, sans invité ni transmission de fond.
-- 1/10 Jensen Huang says AI is 're-industrializing' the US, Elon Musk says it 'needs a lot of energy' — USA TODAY : Extrait de news de quelques minutes d'un événement à la Maison-Blanche, sans conversation de fond.
-- 1/10 Pope Leo calls out Jensen Huang, Anthropic hot takes, AMD's World Labs deal | Sozzi Unleashed — Yahoo Finance : Émission d'actualité financière qui empile des sujets du jour, sans profondeur : contenu jetable.
-- 1/10 真正的幸福，從來不是向外追尋，而是先建立內心的富足。當你學會接納自己、提升自己，愛與好運才會自然流向你。愛自己，是改變人生的第一步。——納瓦爾 Naval Ravikant#納瓦爾 #自我成長 — เจริญ เพ็ชรภิมล : Compilation de citations de Naval avec titre motivationnel racoleur, sans contenu de fond ni conversation.
-- 1/10 Elon Musk’s Chilling Warning Is Coming True as Ugly Details of Terror Plot Revealed — The Rubin Report : Commentaire d'actualité politique jetable et sensationnaliste, sans interview de fond ni transmission durable.
-- 1/10 Elon Musk: The UNTHINKABLE is About to Happen! — David Carbutt  : Chaîne de growth YouTube au titre racoleur, spéculation sur Musk et Palantir sans substance, avec promotion de groupes boursiers.
-- 1/10 Avec 500 000€ tu peux créer ton propre fonds d'investissement — voilà comment les chiffres foncti... — Le Monopole Niel : Chaîne détournant le nom de Xavier Niel, titre putaclic sur la finance, contenu probablement généré, sans invité ni expérience vécue.
-- 0/10 OMG.. Elon Musk's X Post Just CONFIRMED CNN's Worst Nightmare Is Coming True! — Ron Yates : Putaclic sponsorisé sur l'actualité politique, sans aucune valeur de fond.
-- 0/10 Comment Elon Musk les rend fous ! Derrière le décor - TVL — Chaîne officielle TVL : Émission d'actualité militante et sensationnaliste sur Musk, contenu jetable et à charge, sans transmission de fond.
-- 0/10 Dirty talk : ce que j'adore qu'on me dise (et ce qui me refroidit direct!) — Aurélie Leveau : Contenu sur la sexualité sans rapport avec tes thèmes, sur un ton racoleur et en monologue.
-- 0/10 Neuralink Just Made “Telepathy” a Reality… Is This Elon Musk’s Vision for the Future? — Lion of Judah : Contenu sensationnaliste mêlant Neuralink et prophétie biblique, sans interview, putaclic et sans fond.
-- 0/10 Teamwork Makes The Dream Work! — La Crete Victory Church : Sermon d'église sur le travail d'équipe, hors de tes thèmes et sans rapport avec ton profil.
-- 0/10 Macron, Lepaul, Pigasse, Charles Sapin, Gabriel Attal, Chaleur, PLAYMATE, Carburant, Ségolène Royal — PIPEAU TV - ACTUALITES : JT d'actualité humoristique et jetable, aucune profondeur ni interview de fond.
+- 6/10 Why a Restaurant's Menu Should Be Creative but Its Daily Systems Should Not | Vitaliy Katsenelson — FULL COMP with Josh Kopel : Interview avec une vraie idée singulière (art vs artisanat, systèmes répétables) et applicable, mais cadrée sur la restauration.
+- 6/10 Timeless Principles for Fast-Changing Times — Asymmetric Bets, Identity Diversification, and More — Tim Ferriss : Tim Ferriss interviewé sur scène : expérience vécue et réflexions sur l'identité, l'IA et l'anti-fragilité, accessibles, mais format événementiel pour un public immobilier et un peu de développement personnel classique.
+- 5/10 GTA 6, Crime, Jewel Heists, Prison, Corrupt Cops, Mafia, Miami & Money | Lex Fridman Podcast #505 — Lex Fridman : Lex Fridman avec un ex-voleur de bijoux au vécu très concret et accessible, mais 3h20 et un récit plus proche du storytelling émotionnel que de tes thèmes de stratégie et de tech.
+- 5/10 « Si on ne produit pas de richesses, on ne peut pas faire d'écologie » : Philippe Charlez — Frontières  : Entretien avec un expert de l'énergie dont la position à contre-courant est singulière et accessible, mais le thème est assez spécialisé et le média très marqué idéologiquement.
+- 5/10 #236 Eric Jorgenson /《納瓦爾寶典》作者 - 真正的財富是即使人生歸零，也有重新開始的能力 — 電扶梯走左邊 Jacky : Longue conversation de fond sur les philosophies de Naval et Musk, très pertinente pour tes thèmes, mais en mandarin et avec un auteur de synthèse plutôt qu'un acteur direct.
+- 4/10 Episode 58: Tobi Lütke: The CEO Who Didn’t Believe in Leadership — Leaders Podcast : Tobi Lütke est un invité singulier, mais cet épisode de 25 min semble être un résumé générique de sa philosophie, sans qu'il parle lui-même, avec un ton de leadership corporate.
+- 4/10 “Tu ne te feras plus embaucher nulle part” : il a enquêté 10 ans sur la macronie — Journal l'Humanité : Entretien de fond avec un journaliste d'investigation sur le pouvoir et le capitalisme français, mais lecture militante et titre accrocheur, sujet d'actualité politique.
+- 4/10 Benzema, l'OL, Saudi Pro League, équipe de France Espoirs, son enfance… Interview avec Zack Nani — Kassim Maaloul : Interview longue avec un créateur qui parle de son parcours entrepreneurial concret, mais le sujet reste centré sur le foot et le divertissement, avec peu de profondeur de pensée.
+- 3/10 هنر نه گفتن: اگه «آره، با تمام وجود» نیست، نه بگو | درک سیورز ۱ | پاشو بکن 16 — نون به نرخ روز : Podcast en persan qui commente un livre de Derek Sivers, un thème intéressant mais de seconde main et dans une langue que tu ne sembles pas parler.
+- 3/10 MCPAO, « le cauchemar de LFI », se livre : son choix pour 2027, libéralisme, polémiques… — Frontières  : Interview politique française d'actualité, centrée sur les polémiques et la présidentielle 2027 : peu de transmission durable.
+- 3/10 The Only 37 Minutes You Need To Hear In 2027 | Naval Ravikant — RiseCode : Compilation motivationnelle de citations de Naval avec fond musical : le fond est intéressant mais le format est un montage, pas une interview complète.
+- 3/10 Les meilleures punchline de Xavier Niel — Déclik Media : Xavier Niel est un invité que tu apprécies, mais ce montage de punchlines est une compilation d'extraits, format que tu rejettes.
+- 3/10 Oussama Ammar : la descente aux enfers — Victor Ferry : Sujet lié à Oussama Ammar mais c'est un récit à charge sur sa condamnation, pas une interview de lui, avec un côté actualité judiciaire et dramatisation (« descente aux enfers »).
+- 3/10 Olivier Faure : Glucksmann, l’allié devenu rival — Pierre de Brague — Marcel D.  : Entretien politique sur la stratégie du PS, très ancré dans l'actualité jetable et peu en phase avec tes thèmes.
+- 3/10 How to Escape the Matrix Before It's Too Late | Naval Ravikant — 𝐈𝐫𝐨𝐧 𝐖𝐢𝐥𝐥. : Compilation de citations de Naval réarrangées avec un titre racoleur, sans conversation originale.
+- 3/10 上手實作：你和模型之間，到底隔著什麼？（完整一季）｜LLM Bento — funclosure · LLM Bento : Cours pédagogique sur les LLM et les harnais d'agents, mais assez technique, en chinois, et pas une conversation avec un praticien.
+- 3/10 Martin Sellner : Pour une révolution de droite ! [EN DIRECT] — Frontières  : C'est bien un entretien long, mais il est purement militant et politique, sans lien avec les thèmes recherchés (entrepreneuriat, stratégie, tech, culture), et il relève de l'actualité clivante.
+- 3/10 Hands-on — What Is Actually Between You and the Model? (Full Season) | LLM Bento — funclosure · LLM Bento : Cours technique sur les LLM (harness, contexte), sans invité ni vécu, plus pointu que ce que tu recherches.
+- 2/10 Dossier Epstein : ce que CHRISTIAN COMBAZ dit de plus GLAÇANT sur L'OCCIDENT | GPTV — GPTV L'ESSENTIEL : Extraits montés au titre racoleur (« glaçant »), thèmes géopolitiques conspirationnistes, peu d'ancrage concret.
+- 2/10 AI Adoption Failures: Why Your Successful AI Pilot Is No Reason to Scale — Age of Product : Présentation pédagogique sur un cas hypothétique d'adoption de l'IA en entreprise, sans invité ni expérience vécue, avec un ton corporate.
+- 2/10 Omarchy: Вся Правда о Linux Будущего и Его Скандальном Создателе — ZARGO : Vidéo en russe sur Omarchy, un sujet Linux technique de niche qui parle de DHH sans lui donner la parole.
+- 2/10 The Almanack of Naval Ravikant: A Guide to Wealth and Happiness | Full Audiobook | Full Version — TimeLess Reads : Livre audio de 4h15 qui compile des citations de Naval : ce n'est ni une interview ni une conversation, et c'est du développement personnel générique.
+- 2/10 6 Zihin Yapısı: Akıllı Girişimci Kararı Nasıl Verir? (2027 Servet Planı Ep. 02) — Girişimci Kal | Mastermind 4x4 : Contenu en turc, format motivationnel solo sur l'état d'esprit entrepreneurial, sans invité, avec une approche assez générique.
+- 2/10 The Secret to Wealth, Happiness & Freedom — A Deep Conversation — The Gentle Why : Conversation générée par deux voix d'IA qui résument un livre : aucune expérience vécue ni pensée propre, contenu de seconde main.
+- 2/10 Could Jensen Huang Actually Return To Nvidia? — Prof G Markets : Débat d'actualité boursière sur un possible retour de Jensen Huang, contenu jetable et centré sur le marché, sans parole directe de l'intéressé.
+- 2/10 Comment VENDRE n'importe quoi à n'importe qui (GUIDE COMPLET 2026) — Alec Henry : Masterclass de vente de 5 h promue pour vendre un coaching, titre racoleur (« vendre n'importe quoi à n'importe qui »), loin d'une conversation singulière.
+- 2/10 「いいとこ止まり」で終わる人間とその先へ行く人間の差｜成功体験が生む成長の停滞 — Motocrab | 世界構造考察 : Vidéo de développement personnel en japonais, format explicatif sans invité qui s'appuie sur des références (Sivers, Ferriss) sans vécu propre.
+- 2/10 How To Speed Up A/B Testing (Stop Testing Tiny Changes!) | Lecture 15 — Richard Reis : Cours technique sur l'A/B testing, niche de growth marketing qui demande des prérequis, pas d'interview.
+- 2/10 Voici Le Carburant Le Plus Puissant Pour Atteindre Tous Tes Objectifs — JUDE LEKOU : Vidéo monologue de développement personnel au ton racoleur, qui compile des anecdotes (Niel, Bezos, Ali) sans expérience propre ni invité.
+- 2/10 It Will Never: confident predictions and verdicts about AI, and what happened next — Tomas Sakinis : Compilation de courts extraits de prédictions sur l'IA, format que tu rejettes, sans conversation de fond.
+- 2/10 The Almanack of Naval Ravikant Summary | Get Rich Without Getting Lucky — BEYOND THE PAGES : Résumé de livre générique, sans invité ni expérience vécue ni angle singulier.
+- 2/10 7个心理开关：为什么你总是不知不觉被说服？｜3位富豪力荐《影响力》 — 大川借光 : Résumé de livre en chinois (Cialdini) avec extraits d'autres podcasts : ce n'est ni une interview ni une conversation de fond, et le contenu est de seconde main.
+- 2/10 Naval: Stop Begging for Love and Approval!The Moment You Stop Pleasing Everyone, True Respect Begins — Wealth Through Leverage : Audio essay générique de citations de Naval, sans interview ni expérience vécue, titre racoleur.
+- 2/10 The Almanack of Naval Ravikant: How to Get Rich (Without Being Miserable) — AudioVerse English : Résumé de livre en audio, contenu de seconde main et généraliste, sans conversation ni angle nouveau.
+- 2/10 Nói Ra Là Chết: Cái Bẫy Tâm Lý Khi Bạn Kể Mục Tiêu Quá Sớm — Thanh Review Sách : Podcast de développement personnel en vietnamien, format solo de vulgarisation, sans invité ni vécu concret.
+- 2/10 The Almanack of Naval Ravikant | Wealth और Happiness | inBooksClub — 𝗶𝗻𝗕𝗼𝗼𝗸𝘀 𝗰𝗹𝘂𝗯  •  𝟰.𝟳𝗺 𝘃𝗶𝗲𝘄𝘀  •  𝟵 𝗵𝗼𝘂𝗿𝘀 𝗮𝗴𝗼 ... : Résumé de livre en hindi, sans interview ni conversation, et simple réutilisation des idées de Naval.
+- 2/10 France: The Luxury Empire Hiding Behind Elegance — BeyondTheMap 🌍 : Documentaire narratif sans invité ni interview, plutôt généraliste et superficiel sur les milliardaires français, loin du format de conversation de fond.
+- 2/10 Julien Odoul : « Mélenchon a une part de responsabilité dans la montée de l'antisémitisme » — Frontières  : Interview d'un politicien en pleine actualité, au discours partisan et prévisible, sans transmission ni apprentissage durable.
+- 2/10 프롬프트 암기는 끝났다, AI 만든 연구원들과 부자들의 진짜 자동화 시스템 5단계 — 부자들이 숨긴 이야기 : Montage de citations en coréen sur l'automatisation par l'IA, sans interview ni invité direct, au ton marketing et au titre racoleur.
+- 1/10 Tóm tắt sách: Khác Biệt Để Bứt Phá — Jason Fried, David Heinemeier Hansson (Bản đầy đủ) — Stock & View : Résumé de livre en vietnamien, pas une interview ni une conversation de fond, et contenu de seconde main.
+- 1/10 A Day Without Email, 4 Hours Without Flights: Why One Change Can Stop Everything — Comuvia News : Analyse d'actualité sur des pannes informatiques, technique et jetable, sans interview ni pensée singulière.
+- 1/10 Jensen Huang Is Out. Should Nvidia Bring Him Back? — Rush Hour Podcast : Podcast d'actualité réactif et spéculatif sur un scandale, contenu jetable sans vision de fond.
+- 1/10 Elon Musk Just Reinvented Chipmaking — rubenfoto1 : Titre racoleur sur une actualité tech, sans interview, probablement un résumé d'actualité superficiel.
+- 1/10 The Rothschild Mansions That Were Left To Rot (Documentary) — Old Money Mansions : Documentaire sur des demeures abandonnées : ni interview ni réflexion de fond, et le sujet est éloigné de tes thèmes.
+- 1/10 Elon Musk Just Discovered A Fuel That Shouldn't Exist — America's Inventions : Contenu vulgarisé au titre racoleur, sans invité ni conversation, sur un sujet technique.
+- 1/10 Jensen Huang is my CEO | HOK — MobaZane : Titre sans info, chaîne de gaming (HOK) et format stream de 169 minutes, aucun rapport avec une interview de fond.
+- 1/10 Omarchy 4.5 Complete Tutorial: From a Blank PC to Everyday Use — Starry Hope : Tutoriel technique d'installation Linux, niche technique sans interview ni réflexion de fond.
+- 1/10 Elon Musk Says He's "Not MAGA"?? — Some More News : Émission d'actualité politique américaine, format commentaire jetable, hors de tes thèmes.
+- 1/10 Elon Musk's Shocking MAGA Comments — Michael Knowles : Show d'actualité politique américaine jetable, avec un titre racoleur et beaucoup de sponsors, sans aucune interview de fond.
+- 1/10 Jensen Huang’s affair just blew up the US-China AI race | Meanwhile in Asia — CNN : Reportage d'actualité CNN sur un scandale, contenu jetable et sensationnaliste, sans interview de fond.
+- 1/10 Elon Musk Says He Doesn’t Know What MAGA Is, HE’S LYING — The Lincoln Project : Commentaire politique partisan sur l'actualité, avec un titre racoleur et sans transmission de fond.
+- 1/10 Inside Elon Musk’s Mind The Habits Behind His Biggest Wins — Evan Carmichael : Compilation motivationnelle de 148 minutes sur Elon Musk, sans interview ni pensée originale, dans un style putaclic typique d'Evan Carmichael.
+- 0/10 Petition to bring Jensen Huang back to NVIDIA? — The Mazala Report : Contenu d'actualité jetable et sensationnaliste sur une pétition, sans interview ni transmission de fond.
+- 0/10 Kobeissi reports an SEC probe into Nvidia — Daily Vibe Casting : Compilation de posts et de news du jour, exactement le format putaclic/actualité que tu rejettes.
+- 0/10 🔴 LIVE: REACTING TO YOUR SUGGESTIONS | DHH | ROAD TO 1000 SUBS — Teen Toast : Live de réactions sans rapport avec le DHH que tu apprécies, aucune valeur de fond.
+- 0/10 Vodafone (VOD) Q2 2027 Earnings: Guidance Raised, Germany Down 3.2% — TalkTickers: AI Podcast Discussing Earnings Calls : Résumé d'une publication de résultats financiers, contenu d'actualité jetable, de niche, sans invité ni vision personnelle.
+- 0/10 Jensen Huang Makes SHOCKING Statement To Alice Huang's Husband After Affair Leaks — Studio Secrets : Putaclic sensationnaliste sur une rumeur de liaison, sans aucune valeur de transmission.
+- 0/10 🚨All HELL BREAKS LOOSE as Elon Musk Calls Zelensky a LIAR in Front of EVERYONE!! — Ron Yates : Titre putaclic sur un clash politique, contenu d'actualité sensationnaliste et sponsorisé.
+- 0/10 DHH Adult Panel — Kentucky Hands & Voices : Panel d'une association locale sur la surdité (DHH = Deaf and Hard of Hearing), sans aucun rapport avec tes thèmes.
+- 0/10 Jensen Huang Lived A Hidden Life For Years, And No One Knew — Studio Secrets : Titre racoleur sur une prétendue vie cachée de Jensen Huang, contenu putaclic et probablement fabriqué.
+- 0/10 Kimberly Powell's Affair With Jensen Huang Was Even More Disturbing Than You Thought — The State Archive : Putaclic à base de rumeurs scandaleuses, sans aucune transmission de fond.
+- 0/10 🔴 Elon Musk Just EXPOSED Zelenskyy: "He's a Liar!" — Mark Kaye : Titre sensationnaliste et contenu d'actualité politique jetable, sans fond.
+- 0/10 New Energy Breakthrough From Elon Musk Is Shocking Everyone — Theorix : Titre clickbait sur une prétendue percée d'Elon Musk, contenu probablement spéculatif et jetable.
+- 0/10 Levrette : les 3 détails qui changent tout (démo) — Aurélie Leveau : Contenu sexuel explicite et racoleur, totalement hors sujet.
+- 0/10 Jensen Huang RENUNCIA: La trama que sacude a NVIDIA — Date un Vlog : Vidéo d'actualité sensationnaliste sur un scandale, titre racoleur, aucune transmission de fond.
+- 0/10 Elon Musk Lost So Bad He Disowned Maga — Reese Waters : Commentaire politique putaclic centré sur l'actualité, sans valeur durable.
+- 0/10 DHH Adult Panel — Kentucky Hands & Voices : Panel de personnes sourdes ou malentendantes (DHH = Deaf/Hard of Hearing), sans rapport avec tes thèmes, et très long.
+- 0/10 Kimberly Powell Stood Beside Jensen Huang For 18 Years — What Lori Didn't Know Is Much Worse — Hollywood Unsealed TV : Potins sensationnalistes sur la vie privée de Jensen Huang : actualité jetable et putaclic.
+- 0/10 At 63, Jensen Huang Finally REVEALS What We All Suspected About Spencer Huang — Studio Secrets : Putaclic pur sur la vie privée de Jensen Huang, contenu probablement fabriqué, sans valeur de transmission.
+- 0/10 Alice Huang Vanished After The Jensen Scandal — What Investigators Found Is Much Worse — Hollywood Unsealed TV : Contenu putaclic de type potins et actualité jetable, sans interview ni transmission, avec un titre sensationnaliste.
 
 </details>

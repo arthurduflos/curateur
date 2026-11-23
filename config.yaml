@@ -1,6 +1,9 @@
 # ─── Curateur de podcasts / YouTube ───────────────────────────────
-playlist_prefix: "Curation" # playlists créées automatiquement : "Curation — Octobre 2026", etc.
+# Playlists créées automatiquement, une par mois : "Novembre", "Décembre"…
 playlist_privacy: "private" # private, unlisted ou public
+seed_playlist: "New" # enregistre-y une vidéo depuis l'iPhone : sa chaîne ou son invité sera suivi
+block_after_dislikes: 2 # une chaîne sort des sources après 2 👎 sans aucun 👍
+max_learned_guests: 25 # invités appris via « New » (100 unités de quota chacun)
 lookback_days: 8 # fenêtre de recherche (8 jours pour un lancement hebdo)
 min_duration_min: 10 # exclut shorts et vidéos trop courtes
 score_threshold: 7 # note /10 minimale pour entrer dans la playlist

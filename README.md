@@ -27,3 +27,11 @@ YouTube du mois en cours et publie un rapport (onglet Actions > dernier run > Su
 Tout se passe dans `config.yaml` : chaînes, invités, seuil, et surtout `profile`,
 à enrichir quand un épisode te déçoit ou t'enthousiasme. C'est ce qui rend la
 sélection meilleure avec le temps.
+
+## Piloter le curateur depuis l'iPhone
+
+- **Playlist du mois** (« Novembre », « Décembre »…) : ta sélection, créée automatiquement.
+- **👍 / 👎** sur une vidéo de la sélection : le curateur s'en sert comme exemples pour noter les suivantes. Après 2 👎 sans aucun 👍, la chaîne sort des sources.
+- **Playlist « New »** : enregistre-y une vidéo qui t'inspire (Enregistrer > New). Au run suivant, le curateur suit sa chaîne et/ou son invité, puis déplace la vidéo dans la playlist du mois.
+
+Tout ce qui est appris est stocké dans `state.json` (section `learned`) et visible dans le rapport de chaque run.
